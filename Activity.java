@@ -126,7 +126,7 @@ public class Activity extends JPanel{
 		});
 
 	}
-			//增加聯絡方式
+	//增加聯絡方式
 	public void addContact(){
 		JTextField contactType = new JTextField("social media",5);
 		JTextField contactID = new JTextField("id", 20);
